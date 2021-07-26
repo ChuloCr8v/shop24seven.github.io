@@ -242,15 +242,15 @@ header {
 }
 
 .category-1 {
-  background-image: url(/images/man.png);
+  background-image: url(images/man.png);
 }
 
 .category-2 {
-  background-image: url(/images/woman.png);
+  background-image: url(images/woman.png);
 }
 
 .category-3 {
-  background-image: url(/images/gift.png);
+  background-image: url(images/gift.png);
 }
 
 #featured, #new-arrivals {
